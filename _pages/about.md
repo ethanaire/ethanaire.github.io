@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Hoang"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# 👋🏼 Hello there, I'm Hoang
 
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
 👨🏻‍💻 I'm a Graduate from Macquarie University with a Bachelor of Information Technology.
