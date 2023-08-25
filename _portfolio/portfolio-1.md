@@ -1,5 +1,5 @@
 ---
-title: "Sydney Airbnb Prices Prediction"
+title: "Sydney Airbnb Prices Prediction - Python"
 excerpt: "Implementation of Regression models on predicting Airbnb prices in Sydney<br/><img src='/images/Airbnbs-in-Sydney.png'>"
 collection: portfolio
 ---
