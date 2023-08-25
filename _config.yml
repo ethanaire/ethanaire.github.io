@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Data Analyst"
   location         : "Sydney, Australia"
-  employer         :
+  employer         : "Macquarie University"
   pubmed           : 
   googlescholar    : 
   email            : "hoangngn.26@gmail.com"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : https://www.facebook.com/ethanngn/
   foursquare       :
   github           : "ethanaire"
   google_plus      :
@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/hoang-ngn/
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/22444861/hoang-nguyen"
+  stackoverflow    : https://stackoverflow.com/users/22444861/hoang-nguyen
   steam            :
   tumblr           :
   twitter          : 
