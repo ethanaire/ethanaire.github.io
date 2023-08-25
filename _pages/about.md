@@ -22,7 +22,6 @@ I have experience contributing to [ethanaire](https://github.com/ethanaire) my p
 
 Specifically, I have ongoing publications about my data journey and hope to publish them on Medium soon.
 
-
 ## 👨🏻‍🔬 Professional Experience
 Additionally, I have professional experience working as an **PMO Analyst Intern** at BT Financial Group. \
 There I work on Business Transformation projects management and financial crime analysis.
